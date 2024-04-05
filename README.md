@@ -10,7 +10,18 @@
 我們期待這個創新的方式能夠為參訪者提供一個豐富而方便的參觀體驗。
 
 未來，也將持續優化虛擬展間，讓參訪者可以獲得更加豐富的參觀體驗。
+## 成果與結論
+虛擬展間在近年來逐漸受到重視，並已在各領域應用。
 
+藝術館可以用虛擬展間舉辦線上展覽，讓觀眾不必親臨現場也能欣賞藝術作品。
+
+企業可以利用虛擬展間舉辦線上產品發表會，讓客戶深入地了解產品。
+```
+Virsody線上展間 : https://virsody.io/r/isu10903070
+```
+```
+UnityVR展間 : https://www.youtube.com/watch?v=eMP0fmyXkTM
+```
 
 ## 更多介紹
 點擊前往[WiKi](https://github.com/Xiang511/Virsody-Unity/wiki/Virsody%E5%92%8CUnity%E8%99%9B%E6%93%AC%E5%B1%95%E9%96%93%E5%AF%A6%E4%BD%9C)
