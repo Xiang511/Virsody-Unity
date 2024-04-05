@@ -22,8 +22,30 @@ Virsody線上展間 : https://virsody.io/r/isu10903070
 ```
 UnityVR展間 : https://www.youtube.com/watch?v=eMP0fmyXkTM
 ```
+## 專題組員&獎項
+<table>
+  <tr align="left">
+  <td align="center">
+  <a href="https://github.com/Xiang511" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/120042360?v=4" width="64px;"alt="Xiang511"/><br/><sub><b>Xiang511</b></sub></a><br/>
+  </td> 
+    
+  <td align="center">
+    <a href="https://github.com/a0979551728"  style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/149994291?v=4" width="64px;" alt="a0979551728"/><br/><sub><b>a0979551728</b></sub></a><br/>
+  </td>
+    
+  <td align="center">
+    <a href="https://github.com/AioliPrimitive" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/161225330?v=4" width="64px;" alt="AioliPrimitive"/><br/><sub><b>AioliPrimitive</b></sub></a><br/>
+  </td>
+
+   <td align="center">
+    <a href="https://www.isu.edu.tw/newsite/showpage.php?dept_mno=820&dept_id=7&page_id=51480" style="display:inline-block;width:80px"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiC5boDs4OQrHIyTyYcpvPJXS9yylQ2yJSkCJ5ZO0SQg&s" width="64px;" alt="trophy"/><br/><sub><b>2023專題創意成果展 第三名</b></sub></a><br/>
+  </td>
+
+  
+  </tr>
+</table>
 
 ## 更多介紹
-點擊前往[WiKi](https://github.com/Xiang511/Virsody-Unity/wiki/Virsody%E5%92%8CUnity%E8%99%9B%E6%93%AC%E5%B1%95%E9%96%93%E5%AF%A6%E4%BD%9C)
+[前往WiKi](https://github.com/Xiang511/Virsody-Unity/wiki/Virsody%E5%92%8CUnity%E8%99%9B%E6%93%AC%E5%B1%95%E9%96%93%E5%AF%A6%E4%BD%9C) 查看詳細內容
 
-![image](https://github.com/Xiang511/Virsody-Unity/assets/120042360/9291ed39-dcb6-4011-bae2-f7110e6c3e24)
+
