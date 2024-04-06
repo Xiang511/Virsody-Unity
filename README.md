@@ -19,29 +19,32 @@
 藝術館可以用虛擬展間舉辦線上展覽，讓觀眾不必親臨現場也能欣賞藝術作品。
 
 企業可以利用虛擬展間舉辦線上產品發表會，讓客戶深入地了解產品。
+
 ```
-Virsody線上展間 : https://virsody.io/r/isu10903070
+Virsody展間 | https://virsody.io/r/isu10903070 
 ```
 ```
-UnityVR展間 : https://www.youtube.com/watch?v=eMP0fmyXkTM
+UnityVR展間 | https://www.youtube.com/watch?v=eMP0fmyXkTM
 ```
+
+
 ## 專題組員&獎項
 <table>
   <tr align="left">
   <td align="center">
-  <a href="https://github.com/Xiang511" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/120042360?v=4" width="64px;"alt="Xiang511"/><br/><sub><b>Xiang511</b></sub></a><br/>
+  <a href="https://github.com/Xiang511" style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/120042360?v=4" width="88px;"alt="Xiang511"/><br/><sub><b>Xiang511</b></sub></a><br/>
   </td> 
     
   <td align="center">
-    <a href="https://github.com/a0979551728"  style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/149994291?v=4" width="64px;" alt="a0979551728"/><br/><sub><b>a0979551728</b></sub></a><br/>
+    <a href="https://github.com/a0979551728"  style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/149994291?v=4" width="88px;" alt="a0979551728"/><br/><sub><b>a0979551728</b></sub></a><br/>
   </td>
     
   <td align="center">
-    <a href="https://github.com/AioliPrimitive" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/161225330?v=4" width="64px;" alt="AioliPrimitive"/><br/><sub><b>AioliPrimitive</b></sub></a><br/>
+    <a href="https://github.com/AioliPrimitive" style="display:inline-block;width:110px"><img src="https://avatars.githubusercontent.com/u/161225330?v=4" width="88px;" alt="AioliPrimitive"/><br/><sub><b>AioliPrimitive</b></sub></a><br/>
   </td>
 
    <td align="center">
-    <a href="https://www.isu.edu.tw/newsite/showpage.php?dept_mno=820&dept_id=7&page_id=51480" style="display:inline-block;width:80px"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiC5boDs4OQrHIyTyYcpvPJXS9yylQ2yJSkCJ5ZO0SQg&s" width="64px;" alt="trophy"/><br/><sub><b>2023專題創意成果展 第三名</b></sub></a><br/>
+    <a href="https://www.isu.edu.tw/newsite/showpage.php?dept_mno=820&dept_id=7&page_id=51480" style="display:inline-block;width:120px"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiC5boDs4OQrHIyTyYcpvPJXS9yylQ2yJSkCJ5ZO0SQg&s" width="88px;" alt="trophy"/><br/><sub><b>2023專題創意成果展 第三名</b></sub></a><br/>
   </td>
 
   
