@@ -10,6 +10,9 @@
 我們期待這個創新的方式能夠為參訪者提供一個豐富而方便的參觀體驗。
 
 未來，也將持續優化虛擬展間，讓參訪者可以獲得更加豐富的參觀體驗。
+
+若想了解更多細節可以前往[Wiki頁面](https://github.com/Xiang511/Virsody-Unity/wiki/Virsody%E5%92%8CUnity%E8%99%9B%E6%93%AC%E5%B1%95%E9%96%93%E5%AF%A6%E4%BD%9C)
+
 ## 成果與結論
 虛擬展間在近年來逐漸受到重視，並已在各領域應用。
 
@@ -44,8 +47,3 @@ UnityVR展間 : https://www.youtube.com/watch?v=eMP0fmyXkTM
   
   </tr>
 </table>
-
-## 更多介紹
-[前往WiKi](https://github.com/Xiang511/Virsody-Unity/wiki/Virsody%E5%92%8CUnity%E8%99%9B%E6%93%AC%E5%B1%95%E9%96%93%E5%AF%A6%E4%BD%9C) 查看詳細內容
-
-
